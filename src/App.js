@@ -20,8 +20,7 @@ const App =()=>{
                   <div className="container">
                         <FeedbackForm/>
                         <FeedbackStats />
-                        <FeedbackList />
-                        
+                        <FeedbackList />    
                   </div>
                   <AboutUsLink/>
                 </>
