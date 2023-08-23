@@ -1,9 +1,14 @@
 {
   "feedback": [
     {
-      "text": "Kamal is a superstar",
+      "text": "Sample feedback input 1",
       "rating": 10,
       "id": 1
+    },
+    {
+      "text": "Sample feedback input 2",
+      "rating": 8,
+      "id": 2
     }
   ]
 }
